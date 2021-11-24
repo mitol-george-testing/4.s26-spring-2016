@@ -1,0 +1,46 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Fine Arts",
+      "Architecture"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9c6aac32-dd77-b9d8-31d5-4cba0d370202"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Territory: Spatial Reification of Power",
+  "course_description": "This course proposes that investigating the ways in which territory is produced, maintained and strategized, generates conflicts, establishes divisions, and builds identities can lead to a more critical understanding of architecture's role in society. This course is designed to expand the student's literacy in the concept of territory and its relation to the realm of architecture.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.S26",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
